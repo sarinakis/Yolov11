@@ -1,0 +1,11 @@
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+
+train: C:/Users/giorg/PycharmProjects/Fish_Seabream.v4i.yolov5pytorch/train
+val: C:/Users/giorg/PycharmProjects/Fish_Seabream.v4i.yolov5pytorch/valid
+test: C:/Users/giorg/PycharmProjects/Fish_Seabream.v4i.yolov5pytorch/test
+
+# Classes
+nc: 1  # number of classes
+names: ['fish']  # class names
+
